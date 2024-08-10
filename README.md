@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 92997a1 (all files upload)
 # Data-Engineer-Project-End-to-End-Airflow-Data-Pipeline-with-BigQuery-dbt-Soda-and-Tableau
 This project demonstrates the creation of a comprehensive end-to-end data pipeline using Apache Airflow, Google BigQuery, dbt, Soda and Tableau. It is designed for data engineers and enthusiasts looking to build robust data pipelines and ensure data quality within their workflows.
 
 # Retail Analytics Dashboard
 
-![retail_analytics_dashboard](https://github.com/user-attachments/assets/37d99854-2b83-46e5-8fc8-36422390e6f5)
-
+![retail_analytics_dashboard](https://github.com/user-attachments/assets/266b1f2a-fec3-43a6-a0ff-c1d11be24717)
 
 # Dataset
 
@@ -27,11 +22,11 @@ This project demonstrates the creation of a comprehensive end-to-end data pipeli
 
 # Pipeline
 
-<img width="1509" alt="Screenshot_2023-07-13_at_16 41 19" src="https://github.com/user-attachments/assets/5ef6d38e-6db7-4c45-9e54-e023bc322e9a">
+<img width="1509" alt="Screenshot_2023-07-13_at_16 41 19" src="https://github.com/user-attachments/assets/fcbcefe6-46bc-4690-86f5-fae6d91177a5">
 
 # Data modeling
 
-<img width="718" alt="Screenshot_2023-07-13_at_16 59 35" src="https://github.com/user-attachments/assets/d9c1668c-d505-489e-984e-24c9300e6be4">
+<img width="718" alt="Screenshot_2023-07-13_at_16 59 35" src="https://github.com/user-attachments/assets/9e5e526b-a950-4f35-9f61-b553f94f3b8f">
 
 # Pipeline
 
