@@ -1005,7 +1005,7 @@ soda scan -d retail -c include/soda/configuration.yml include/soda/checks/report
         return check(scan_name, checks_subpath)
 ```
 
-🥇 Well done! You’ve finished the data pipeline
+🥇 Well done! We’ve finished the data pipeline
 
 # Dashboard
 
