@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: retail
+    database: retail-analytics-project
+
+    tables:
+      - name: raw_invoices
+      - name: country
