@@ -3,7 +3,7 @@ This project demonstrates the creation of a comprehensive end-to-end data pipeli
 
 # Retail Analytics Dashboard
 
-![retail_analytics_dashboard](https://github.com/user-attachments/assets/266b1f2a-fec3-43a6-a0ff-c1d11be24717)
+![retail_analytics_dashboard](https://github.com/user-attachments/assets/08178e58-a0c4-4eca-89d4-19f5f5f5d06b)
 
 # Dataset
 
